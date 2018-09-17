@@ -1,0 +1,4 @@
+```shell
+木马在多个路径都写入了定时任务来实现维持访问，
+包括：/var/spool/cron/root、/var/spool/cron/crontabs/root以及/etc/cron.d。前两个位置直接就在r88.sh这个文件中暴露了出来：
+```
