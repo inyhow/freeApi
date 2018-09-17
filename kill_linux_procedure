@@ -1,4 +1,11 @@
 ```shell
-木马在多个路径都写入了定时任务来实现维持访问，
-包括：/var/spool/cron/root、/var/spool/cron/crontabs/root以及/etc/cron.d。前两个位置直接就在r88.sh这个文件中暴露了出来：
+1.pkill 进程名 
+
+先杀进程，然后检查几个任务计划（/var/spool/cron/root、/var/spool/cron/crontabs/root以及/etc/cron.d）。前两个位置直接就在r88.sh这个文件中暴露了出来：
+
+2.清除掉/tmp目录下木马释放的文件
+
+3.查找 /tmp/config.json常见矿马配置文件
 ```
+
+写于2018/09/17
