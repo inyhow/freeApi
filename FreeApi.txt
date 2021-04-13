@@ -20,4 +20,9 @@ p：介词
 m：数词
 c：连词 
 l：习惯用语(习用语)，如“你好”
+
+随机英文昵称 名字 住址信息 api
+api:https://randomuser.me/api/
+帮助文档：https://randomuser.me/documentation#howto
+
 ```
